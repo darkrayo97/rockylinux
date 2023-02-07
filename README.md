@@ -9,7 +9,9 @@
 [¿En qué versión está basada?](https://github.com/darkrayo97/rockylinux/blob/962a7b17ea6a1b68959c264751cebab00c840c18/version.md)
 
 # Paquetes RPM
-¿Que son los paquetes RPM?
+
+[¿Que son los paquetes RPM?](https://github.com/darkrayo97/rockylinux/blob/e3b276430d96342aaead44c755ae2c92c0f2d2bf/rpm.md)
+
 # Repositorios Rocky Linux
 
 ¿Dónde se encuentra los repositorios?
