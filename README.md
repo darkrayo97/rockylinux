@@ -3,7 +3,8 @@
 ![descarga](https://user-images.githubusercontent.com/114906901/217318810-9d32c1dc-e334-4cbc-aea7-f0f156b57c56.png)
 
 # Introducción:
-¿Qué es Rocky Linux?
+
+[¿Qué es Rocky Linux?](https://github.com/darkrayo97/rockylinux/blob/c1b0e9004699a559e24776b1d0247eb7de835688/introduccion)
 
 ¿En qué versión está basada?
 
