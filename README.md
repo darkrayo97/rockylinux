@@ -13,11 +13,11 @@
 
 ¿Dónde se encuentra los repositorios?
 
-#Operaciones Básicas
+# Operaciones Básicas
 
 Operaciones Basicas
 
-#Referencias
+# Referencias
 
 Wikipedia
 rocky linux
