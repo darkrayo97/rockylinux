@@ -6,7 +6,7 @@
 
 [¿Qué es Rocky Linux](https://github.com/darkrayo97/rockylinux/blob/6d5755d035ff1001ee599250a2a08a177d01d93d/introduccion.md)
 
-¿En qué versión está basada?
+[¿En qué versión está basada?](https://github.com/darkrayo97/rockylinux/blob/962a7b17ea6a1b68959c264751cebab00c840c18/version.md)
 
 # Paquetes RPM
 ¿Que son los paquetes RPM?
