@@ -14,7 +14,7 @@
 
 # Repositorios Rocky Linux
 
-¿Dónde se encuentra los repositorios?
+[¿Dónde se encuentra los repositorios?](https://github.com/darkrayo97/rockylinux/blob/c55d0c14e3b6874ffa11d3c9a3d14a00653fc7b8/repositorio.md)
 
 # Operaciones Básicas
 
