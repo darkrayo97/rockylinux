@@ -1,4 +1,9 @@
 # operaciones basicas
+
+[enlace a video explicatorio](https://youtu.be/Mq26twmrCA8)
+
+# dejo documentado los pasos a seguir
+
 nos logueamos como root yo tengo la version minimal la cual 
 no es la version de escritorio si no solo terminal
 
