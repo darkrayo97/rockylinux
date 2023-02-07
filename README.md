@@ -4,7 +4,9 @@
 
 # Introducción:
 ¿Qué es Rocky Linux?
+
 ¿En qué versión está basada?
+
 # Paquetes RPM
 ¿Que son los paquetes RPM?
 # Repositorios Rocky Linux
