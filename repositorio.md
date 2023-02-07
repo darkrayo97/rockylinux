@@ -1,4 +1,4 @@
-#donde se encuentran los repositorios
+# donde se encuentran los repositorios?
 
 ruta /etc/yum.repos.d/rocky.repo
 
