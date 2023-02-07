@@ -22,8 +22,7 @@
 
 # Referencias
 
-Wikipedia
-rocky linux
+[Wikipedia](https://es.wikipedia.org/wiki/Wikipedia:Portada)
 
 # autor
 Moisés Moreno Moreno
