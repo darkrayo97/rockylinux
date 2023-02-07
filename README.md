@@ -18,7 +18,7 @@
 
 # Operaciones Básicas
 
-[Operaciones Basicas](https://github.com/darkrayo97/rockylinux/blob/d8862be59e1ab30f44bb7d1a03a27537674cdaea/operaciones.md)
+[Operaciones Basicas](https://github.com/darkrayo97/rockylinux/blob/f7fa449792893fc9b863d4fe90e314caf45e7159/operaciones.md)
 
 # Referencias
 
