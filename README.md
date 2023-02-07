@@ -10,10 +10,15 @@
 # Paquetes RPM
 ¿Que son los paquetes RPM?
 # Repositorios Rocky Linux
+
 ¿Dónde se encuentra los repositorios?
+
 #Operaciones Básicas
+
 Operaciones Basicas
+
 #Referencias
+
 Wikipedia
 rocky linux
 
