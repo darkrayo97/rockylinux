@@ -4,7 +4,7 @@
 
 # Introducción:
 
-[¿Qué es Rocky Linux?](https://github.com/darkrayo97/rockylinux/blob/c1b0e9004699a559e24776b1d0247eb7de835688/introduccion.md)
+[¿Qué es Rocky Linux](https://github.com/darkrayo97/rockylinux/blob/6d5755d035ff1001ee599250a2a08a177d01d93d/introduccion.md)
 
 ¿En qué versión está basada?
 
